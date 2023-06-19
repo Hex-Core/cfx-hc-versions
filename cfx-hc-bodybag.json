@@ -1,5 +1,5 @@
 {
-    "version":"1.0.1", 
-    "patchnotes":"ESX Compatibility", 
+    "version":"1.0.2", 
+    "patchnotes":"Code Refactoring", 
     "filesfixed":"Please Read At: https://docs.hex-core.store/"
 }
