@@ -1,5 +1,5 @@
 {
-    "version":"1.0.5", 
-    "patchnotes":"Fixed General Bugs", 
+    "version":"1.0.6", 
+    "patchnotes":"Added Config.Inventory, Update Config.AirdropItemLoots", 
     "filesfixed":"Please Read At: https://docs.hex-core.store/"
 }
